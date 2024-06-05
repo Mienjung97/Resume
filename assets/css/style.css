@@ -358,6 +358,13 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+/* ---------------------------------------------------------- 404 Page */
+
+.error-page {
+    margin: 5%;
+    width: 90%;
+}
+
 /* ---------------------------------------------------------- Media Queries */
 
 @media(min-width: 992px) {
@@ -366,5 +373,11 @@ button[type="submit"] {
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
+    }
+
+    .error-page {
+        width: auto;
+        margin: 2.5%;
+        height: 80vh;
     }
 }
