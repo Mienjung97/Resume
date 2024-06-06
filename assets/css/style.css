@@ -38,6 +38,14 @@
     background-color: #525252;
 }
 
+.ui-menu-color-github {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+.ui-menu-color-interests {
+    background-color: rgb(48, 207, 0);
+}
+
 /* ---------------------------------------------------------- Special paddings/margins/text */
 
 h1,h2,h3,h4 {
